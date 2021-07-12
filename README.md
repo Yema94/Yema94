@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I’m [Yesh](https://github.com/Yema94)</h1>
-<h3 align="center">A Passionate Learner</h3>
+<h1 align="center">👋 Hi, I am <a href="https://github.com/Yema94">Yesh!</a></h1>
+<h3 align="center">A Passionate Learner!</h3>
 
-- 👀 I’m always interested in Learning
+- 👀 I’m always interested in Learning @Yema94 
 - 🌱 I’m currently learning Coding in Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
