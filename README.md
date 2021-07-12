@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yeshwanth Manasani
-- 👀 I’m always interested in Learning
+# 👋 Hi, I’m Yesh
+## 👀 I’m always interested in Learning
 - 🌱 I’m currently learning Coding in Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
