@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeshwanth Manasani
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python 
+- 👀 I’m always interested in Learning
+- 🌱 I’m currently learning Coding in Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
