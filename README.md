@@ -3,8 +3,8 @@
 
 - 👀 I’m always interested in Learning something new
 - 🌱 I’m currently learning Coding in Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m actively looking to get the Industrial Experience. 
+- 📫 EMail ID: myr29893@gmail.com
 
 <!---
 Yema94/Yema94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
